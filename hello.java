@@ -1,4 +1,3 @@
-import java.util.*;
 class Practice1{
 public static void main(String args[]){
 Utility obj = new Utility();
